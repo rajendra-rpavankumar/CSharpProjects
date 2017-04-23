@@ -61,9 +61,13 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <None Include="cover.bat" />
+    <None Include="cover.bat">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Include="packages.config" />
-    <None Include="report.bat" />
+    <None Include="report.bat">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">

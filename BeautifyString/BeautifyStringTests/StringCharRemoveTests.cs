@@ -19,5 +19,21 @@ namespace BeautifyString.Tests
             string actual=objRemoveSpecialChar.Cleanstring("ab!*#ca");
             Assert.AreEqual("abca", actual);
         }
+
+        [TestMethod]
+        public void CleanStringforCapital()
+        {
+            StringCharRemove objRemoveSpecialChar = new StringCharRemove();
+            string actual = objRemoveSpecialChar.Cleanstring("AB!*#CA");
+            Assert.AreEqual("ABCA", actual);
+        }
+
+        [TestMethod]
+        public void CleanStringforHybrid()
+        {
+            StringCharRemove objRemoveSpecialChar = new StringCharRemove();
+            string actual = objRemoveSpecialChar.Cleanstring("AB!*#ca");
+            Assert.AreEqual("ABca", actual);
+        }
     }
 }
