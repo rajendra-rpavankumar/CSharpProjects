@@ -1,0 +1,1200 @@
+Microsoft Windows [Version 10.0.14393]
+(c) 2016 Microsoft Corporation. All rights reserved.
+
+C:\Users\Lenovo>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\PalindromeTests\runtests.bat"
+
+C:\Users\Lenovo>´++..\..\..\packages\NUnit.ConsoleRunner.3.6.1\tools\nunit3-console.exe PalindromeTests.dll /noshadow
+The system cannot find the path specified.
+
+C:\Users\Lenovo>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\PalindromeTests\runtests.bat"
+
+C:\Users\Lenovo>´++..\packages\NUnit.ConsoleRunner.3.6.1\tools\nunit3-console.exe PalindromeTests.dll /noshadow
+The system cannot find the path specified.
+
+C:\Users\Lenovo>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\PalindromeTests\runopencover.bat"
+
+C:\Users\Lenovo>´++..\packages\OpenCover.4.6.519\OpenCover.Console.exe -target:runtests.bat -register:user -filter:+[Palindrome]*
+The system cannot find the path specified.
+
+C:\Users\Lenovo>..\packages\ReportGenerator.2.5.6\reportgenerator.exe -reports:results.xml -targetdir:coverage
+The system cannot find the path specified.
+
+C:\Users\Lenovo>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\PalindromeTests\runtests.bat"
+
+C:\Users\Lenovo>´++..\..\..\..\packages\NUnit.ConsoleRunner.3.6.1\tools\nunit3-console.exe PalindromeTests.dll /noshadow
+The system cannot find the path specified.
+
+C:\Users\Lenovo>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\PalindromeTests\runopencover.bat"
+
+C:\Users\Lenovo>´++..\..\..\..\packages\OpenCover.4.6.519\OpenCover.Console.exe -target:runtests.bat -register:user -filter:+[Palindrome]*
+The system cannot find the path specified.
+
+C:\Users\Lenovo>..\..\..\..\packages\ReportGenerator.2.5.6\reportgenerator.exe -reports:results.xml -targetdir:coverage
+The system cannot find the path specified.
+
+C:\Users\Lenovo>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\PalindromeTests\runopencover.bat"
+
+C:\Users\Lenovo>´++..\packages\OpenCover.4.6.519\OpenCover.Console.exe -target:runtests.bat -register:user -filter:+[Palindrome]*
+The system cannot find the path specified.
+
+C:\Users\Lenovo>..\packages\ReportGenerator.2.5.6\reportgenerator.exe -reports:results.xml -targetdir:coverage
+The system cannot find the path specified.
+
+C:\Users\Lenovo>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\PalindromeTests\runopencover.bat"
+
+C:\Users\Lenovo>´++..\packages\OpenCover.4.6.519\OpenCover.Console.exe -target:runtests.bat -register:user -filter:+[Palindrome]*
+The system cannot find the path specified.
+
+C:\Users\Lenovo>..\packages\ReportGenerator.2.5.6\reportgenerator.exe -reports:results.xml -targetdir:coverage
+The system cannot find the path specified.
+
+C:\Users\Lenovo>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\PalindromeTests\runopencover.bat"
+
+C:\Users\Lenovo>´++..\packages\OpenCover.4.6.519\tools\OpenCover.Console.exe -target:runtests.bat -register:user -filter:+[Palindrome]*
+The system cannot find the path specified.
+
+C:\Users\Lenovo>..\packages\ReportGenerator.2.5.6\tools\reportgenerator.exe -reports:results.xml -targetdir:coverage
+The system cannot find the path specified.
+
+C:\Users\Lenovo>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\PalindromeTests\runtests.bat"
+
+C:\Users\Lenovo>´++..\packages\NUnit.ConsoleRunner.3.6.1\tools\nunit3-console.exe PalindromeTests.dll /noshadow
+The system cannot find the path specified.
+
+C:\Users\Lenovo>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\PalindromeTests\runopencover.bat"
+
+C:\Users\Lenovo>´++..\..\..\..\packages\OpenCover.4.6.519\tools\OpenCover.Console.exe -target:runtests.bat -register:user -filter:+[Palindrome]*
+The system cannot find the path specified.
+
+C:\Users\Lenovo>..\..\..\..\packages\ReportGenerator.2.5.6\tools\reportgenerator.exe -reports:results.xml -targetdir:coverage
+The system cannot find the path specified.
+
+C:\Users\Lenovo>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\PalindromeTests\runtests.bat"
+
+C:\Users\Lenovo>´++..\packages\NUnit.ConsoleRunner.3.6.1\tools\nunit3-console.exe PalindromeTests.dll /noshadow
+The system cannot find the path specified.
+
+C:\Users\Lenovo>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\PalindromeTests\runopencover.bat"
+
+C:\Users\Lenovo>´++..\..\..\..\packages\OpenCover.4.6.519\tools\OpenCover.Console.exe -target:runtests.bat -register:user -filter:+[Palindrome]*
+The system cannot find the path specified.
+
+C:\Users\Lenovo>..\..\..\..\packages\ReportGenerator.2.5.6\tools\reportgenerator.exe -reports:results.xml -targetdir:coverage
+The system cannot find the path specified.
+
+C:\Users\Lenovo>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\PalindromeTests\runtests.bat"
+
+C:\Users\Lenovo>´++packages\NUnit.ConsoleRunner.3.6.1\tools\nunit3-console.exe PalindromeTests.dll /noshadow
+The system cannot find the path specified.
+
+C:\Users\Lenovo>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\PalindromeTests\runtests.bat"
+
+C:\Users\Lenovo>´++..\packages\NUnit.ConsoleRunner.3.6.1\tools\nunit3-console.exe PalindromeTests.dll /noshadow
+The system cannot find the path specified.
+
+C:\Users\Lenovo>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\PalindromeTests\runtests.bat"
+
+C:\Users\Lenovo>´++..\..\packages\NUnit.ConsoleRunner.3.6.1\tools\nunit3-console.exe PalindromeTests.dll /noshadow
+The system cannot find the path specified.
+
+C:\Users\Lenovo>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\PalindromeTests\runtests.bat"
+
+C:\Users\Lenovo>´++..\..\..\packages\NUnit.ConsoleRunner.3.6.1\tools\nunit3-console.exe PalindromeTests.dll /noshadow
+The system cannot find the path specified.
+
+C:\Users\Lenovo>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\PalindromeTests\runtests.bat"
+
+C:\Users\Lenovo>´++..\..\..\packages\NUnit.ConsoleRunner.3.6.1\tools\nunit3-console.exe PalindromeTests.dll /noshadow
+The system cannot find the path specified.
+
+C:\Users\Lenovo>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\PalindromeTests\runtests.bat"
+
+C:\Users\Lenovo>´++..\..\..\..\packages\NUnit.ConsoleRunner.3.6.1\tools\nunit3-console.exe PalindromeTests.dll /noshadow
+The system cannot find the path specified.
+
+C:\Users\Lenovo>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\PalindromeTests\runtests.bat"
+
+C:\Users\Lenovo>´++..\..\..\..\..\packages\NUnit.ConsoleRunner.3.6.1\tools\nunit3-console.exe PalindromeTests.dll /noshadow
+The system cannot find the path specified.
+
+C:\Users\Lenovo>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\PalindromeTests\runtests.bat"
+
+C:\Users\Lenovo>´++..\..\..\..\..\..\packages\NUnit.ConsoleRunner.3.6.1\tools\nunit3-console.exe PalindromeTests.dll /noshadow
+The system cannot find the path specified.
+
+C:\Users\Lenovo>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\PalindromeTests\runtests.bat"
+
+C:\Users\Lenovo>´++..\..\..\..\..\..\packages\NUnit.ConsoleRunner.3.6.1\tools\nunit3-console.exe PalindromeTests.dll /noshadow
+The system cannot find the path specified.
+
+C:\Users\Lenovo>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\PalindromeTests\runtests.bat"
+
+C:\Users\Lenovo>´++..\..\..\..\..\..\..\packages\NUnit.ConsoleRunner.3.6.1\tools\nunit3-console.exe PalindromeTests.dll /noshadow
+The system cannot find the path specified.
+
+C:\Users\Lenovo>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\PalindromeTests\runtests.bat"
+
+C:\Users\Lenovo>´++..\ReverseString\..\..\..\..\..\..\packages\NUnit.ConsoleRunner.3.6.1\tools\nunit3-console.exe PalindromeTests.dll /noshadow
+The system cannot find the path specified.
+
+C:\Users\Lenovo>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\PalindromeTests\runtests.bat"
+
+C:\Users\Lenovo>´++..\ReverseString\packages\NUnit.ConsoleRunner.3.6.1\tools\nunit3-console.exe PalindromeTests.dll /noshadow
+The system cannot find the path specified.
+
+C:\Users\Lenovo>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\PalindromeTests\runtests.bat"
+
+C:\Users\Lenovo>´++../..\packages\NUnit.ConsoleRunner.3.6.1\tools\nunit3-console.exe PalindromeTests.dll /noshadow
+'´++..' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Lenovo>..\packages
+'..\packages' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Lenovo>cd ..\packages
+The system cannot find the path specified.
+
+C:\Users\Lenovo>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\runthetests.bat"
+
+C:\Users\Lenovo>REM Create a 'GeneratedReports' folder if it does not exist
+
+C:\Users\Lenovo>if not exist "C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\GeneratedReports" mkdir "C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\GeneratedReports"
+
+C:\Users\Lenovo>REM Remove any previous test execution files to prevent issues overwriting
+
+C:\Users\Lenovo>IF EXIST "C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\Palindrome.trx" del "C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\Palindrome.trx"
+
+C:\Users\Lenovo>REM Remove any previously created test output directories
+
+C:\Users\Lenovo>CD C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>FOR / %X IN (Lenovo*) DO RD /S /Q "%X"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>REM Run the tests against the targeted output
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>call :RunOpenCoverUnitTestMetrics
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\..\packages\OpenCover.4.6.519\tools\OpenCover.Console.exe" -register:user -target:"\..\IDE\mstest.exe" -targetargs:"/testcontainer:\"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\..\PalindromeTests\bin\Debug\PalindromeTests.dll\" /resultsfile:\"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\Palindrome.trx\"" -filter:"+[Palindrome*]* -[PalindromeTests]* -[*]Palindrome.RouteConfig" -mergebyhash -skipautoprops -output:"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\\GeneratedReports\PalindromeReport.xml"
+The system cannot find the path specified.
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>exit /b 3
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>REM Generate the report output based on the test results
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>if 3 EQU 0 (call :RunReportGeneratorOutput )
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>REM Launch the report
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>if 3 EQU 0 (call :RunLaunchReport )
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>exit /b 3
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\ReverseTests\_RunCodeCoverageInOutput.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>´++"..\..\..\packages\OpenCover.4.6.519\tools\OpenCover.Console.exe" -target:"..\..\..\packages\NUnit.ConsoleRunner.3.6.1\tools\nunit3-console.exe" -targetargs:"/nologo ReverseTests.dll /noshadow" -filter:"+[Reverse]Reverse*" -excludebyattribute:"System.CodeDom.Compiler.GeneratedCodeAttribute" -register:user -output:"_CodeCoverageResult.xml"
+The system cannot find the path specified.
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>"..\..\..\packages\ReportGenerator.2.5.6\tools\ReportGenerator.exe" "-reports:_CodeCoverageResult.xml" "-targetdir:_CodeCoverageReport"
+The system cannot find the path specified.
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\ReverseTests\_RunCodeCoverageInOutput.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>´++"..\..\packages\OpenCover.4.6.519\tools\OpenCover.Console.exe" -target:"..\..\..\packages\NUnit.ConsoleRunner.3.6.1\tools\nunit3-console.exe" -targetargs:"/nologo ReverseTests.dll /noshadow" -filter:"+[Reverse]Reverse*" -excludebyattribute:"System.CodeDom.Compiler.GeneratedCodeAttribute" -register:user -output:"_CodeCoverageResult.xml"
+Target '..\..\..\packages\NUnit.ConsoleRunner.3.6.1\tools\nunit3-console.exe' cannot be found - have you specified your arguments correctly?
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>"..\..\packages\ReportGenerator.2.5.6\tools\ReportGenerator.exe" "-reports:_CodeCoverageResult.xml" "-targetdir:_CodeCoverageReport"
+The system cannot find the path specified.
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\ReverseTests\_RunCodeCoverageInOutput.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>´++"..\..\packages\OpenCover.4.6.519\tools\OpenCover.Console.exe" -target:"..\..\packages\NUnit.ConsoleRunner.3.6.1\tools\nunit3-console.exe" -targetargs:"/nologo ReverseTests.dll /noshadow" -filter:"+[Reverse]Reverse*" -excludebyattribute:"System.CodeDom.Compiler.GeneratedCodeAttribute" -register:user -output:"_CodeCoverageResult.xml"
+Target '..\..\packages\NUnit.ConsoleRunner.3.6.1\tools\nunit3-console.exe' cannot be found - have you specified your arguments correctly?
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>"..\..\packages\ReportGenerator.2.5.6\tools\ReportGenerator.exe" "-reports:_CodeCoverageResult.xml" "-targetdir:_CodeCoverageReport"
+The system cannot find the path specified.
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\ReverseTests\_RunCodeCoverageInOutput.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>´++"..\..\packages\OpenCover.4.6.519\tools\OpenCover.Console.exe" -target:"..\..\packages\NUnit.ConsoleRunner.3.6.1\tools\nunit3-console.exe" -targetargs:"/nologo ReverseTests.dll /noshadow" -filter:"+[Reverse]Reverse*" -excludebyattribute:"System.CodeDom.Compiler.GeneratedCodeAttribute" -register:user -output:"_CodeCoverageResult.xml"
+Target '..\..\packages\NUnit.ConsoleRunner.3.6.1\tools\nunit3-console.exe' cannot be found - have you specified your arguments correctly?
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\ReverseTests\report.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>´++"..\..\packages\ReportGenerator.2.5.6\tools\ReportGenerator.exe" "-reports:_CodeCoverageResult.xml" "-targetdir:_CodeCoverageReport"
+No report files specified.
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\ReverseTests\_RunCodeCoverageInOutput.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>´++"..\..\packages\OpenCover.4.6.519\tools\OpenCover.Console.exe" -target:"..\..\packages\NUnit.ConsoleRunner.3.6.1\tools\nunit3-console.exe" -targetargs:"/nologo ReverseTests.dll /noshadow" -filter:"+[Reverse]Reverse*" -excludebyattribute:"System.CodeDom.Compiler.GeneratedCodeAttribute" -register:user -output:"_CodeCoverageResult.xml"
+Target '..\..\packages\NUnit.ConsoleRunner.3.6.1\tools\nunit3-console.exe' cannot be found - have you specified your arguments correctly?
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\ReverseTests\_RunCodeCoverageInOutput.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>´++"..\..\packages\OpenCover.4.6.519\tools\OpenCover.Console.exe" -target:"..\packages\NUnit.ConsoleRunner.3.6.1\tools\nunit3-console.exe" -targetargs:"/nologo ReverseTests.dll /noshadow" -filter:"+[Reverse]Reverse*" -excludebyattribute:"System.CodeDom.Compiler.GeneratedCodeAttribute" -register:user -output:"_CodeCoverageResult.xml"
+Target '..\packages\NUnit.ConsoleRunner.3.6.1\tools\nunit3-console.exe' cannot be found - have you specified your arguments correctly?
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\ReverseTests\_RunCodeCoverageInOutput.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>´++"..\..\packages\OpenCover.4.6.519\tools\OpenCover.Console.exe"
+
+Incorrect Arguments: The target argument is required
+
+Usage:
+    ["]-target:<target application>["]
+    [["]-targetdir:<target directory>["]]
+    [["]-searchdirs:<additional PDB directory>[;<additional PDB directory>][;<additional PDB directory>]["]]
+    [["]-targetargs:<arguments for the target process>["]]
+    [-register[:user]]
+    [["]-output:<path to file>["]]
+    [-mergeoutput
+    [["]-filter:<space separated filters>["]]
+    [["]-filterfile:<path to file>["]]
+    [-nodefaultfilters]
+    [-regex]
+    [-mergebyhash]
+    [-showunvisited]
+    [-returntargetcode[:<opencoverreturncodeoffset>]]
+    [-excludebyattribute:<filter>[;<filter>][;<filter>]]
+    [-excludebyfile:<filter>[;<filter>][;<filter>]]
+    [-coverbytest:<filter>[;<filter>][;<filter>]]
+    [["]-excludedirs:<excludedir>[;<excludedir>][;<excludedir>]["]]
+    [-hideskipped:File|Filter|Attribute|MissingPdb|All,[File|Filter|Attribute|MissingPdb|All]]
+    [-log:[Off|Fatal|Error|Warn|Info|Debug|Verbose|All]]
+    [-service[:byname]]
+    [-servicestarttimeout:<minutes+seconds e.g. 1m23s>
+    [-communicationtimeout:<integer, e.g. 10000>
+    [-threshold:<max count>]
+    [-enableperformancecounters]
+    [-skipautoprops]
+    [-oldStyle]
+or
+    -?
+or
+    -version
+
+For further information on the command line please visit the wiki
+    https://github.com/OpenCover/opencover/wiki/Usage
+
+Filters:
+    Filters are used to include and exclude assemblies and types in the
+    profiler coverage; see the Usage guide. If no other filters are supplied
+    via the -filter option then a default inclusive all filter +[*]* is
+    applied.
+Logging:
+    Logging is based on log4net logging levels and appenders - defaulting
+    to a ColouredConsoleAppender and INFO log level.
+Notes:
+    Enclose arguments in quotes "" when spaces are required see -targetargs.
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\ReverseTests\_RunCodeCoverageInOutput.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>´++"..\..\packages\OpenCover.4.6.519\tools\OpenCover.Console.exe"  "-target:..\packages\NUnit.ConsoleRunner.3.6.1\tools\nunit3-console.exe"
+Target '..\packages\NUnit.ConsoleRunner.3.6.1\tools\nunit3-console.exe' cannot be found - have you specified your arguments correctly?
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\ReverseTests\_RunCodeCoverageInOutput.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>´++"..\..\packages\OpenCover.4.6.519\tools\OpenCover.Console.exe"  "-target:..\..\packages\NUnit.ConsoleRunner.3.6.1\tools\nunit3-console.exe"
+Target '..\..\packages\NUnit.ConsoleRunner.3.6.1\tools\nunit3-console.exe' cannot be found - have you specified your arguments correctly?
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\ReverseTests\_RunCodeCoverageInOutput.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>´++"..\..\packages\OpenCover.4.6.519\tools\OpenCover.Console.exe"  -target:"..\..\packages\NUnit.ConsoleRunner.3.6.1\tools\nunit3-console.exe"
+Target '..\..\packages\NUnit.ConsoleRunner.3.6.1\tools\nunit3-console.exe' cannot be found - have you specified your arguments correctly?
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\ReverseTests\_RunCodeCoverageInOutput.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>´++"..\..\packages\OpenCover.4.6.519\tools\OpenCover.Console.exe"-target:"..\..\packages\NUnit.ConsoleRunner.3.6.1\tools\nunit3-console.exe"-targetargs:"/nologo ReverseTests.dll /noshadow"-filter:"+[Reverse]Reverse*"-excludebyattribute:"System.CodeDom.Compiler.GeneratedCodeAttribute"-register:user -output:"_CodeCoverageResult.xml"
+The input line is too long.
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\ReverseTests\_RunCodeCoverageInOutput.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>´++"..\..\packages\OpenCover.4.6.519\tools\OpenCover.Console.exe" -target:"..\..\packages\NUnit.ConsoleRunner.3.6.1\tools\nunit3-console.exe" -targetargs:"/nologo ReverseTests.dll /noshadow"-filter:"+[Reverse]Reverse*"-excludebyattribute:"System.CodeDom.Compiler.GeneratedCodeAttribute"-register:user -output:"_CodeCoverageResult.xml"
+Target '..\..\packages\NUnit.ConsoleRunner.3.6.1\tools\nunit3-console.exe' cannot be found - have you specified your arguments correctly?
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\ReverseTests\_RunCodeCoverageInOutput.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>´++"..\..\..\packages\OpenCover.4.6.519\tools\OpenCover.Console.exe" -target:"..\..\..\packages\NUnit.ConsoleRunner.3.6.1\tools\nunit3-console.exe" -targetargs:"/nologo ReverseTests.dll /noshadow" -filter:"+[Reverse]Reverse*" -excludebyattribute:"System.CodeDom.Compiler.GeneratedCodeAttribute" -register:user -output:"_CodeCoverageResult.xml"
+The system cannot find the path specified.
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\ReverseTests\_RunCodeCoverageInOutput.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>´++"..\..\packages\OpenCover.4.6.519\tools\OpenCover.Console.exe" -target:"..\..\packages\NUnit.ConsoleRunner.3.6.1\tools\nunit3-console.exe" -targetargs:"/nologo ReverseTests.dll /noshadow" -filter:"+[Reverse]Reverse*" -excludebyattribute:"System.CodeDom.Compiler.GeneratedCodeAttribute" -register:user -output:"_CodeCoverageResult.xml"
+Target '..\..\packages\NUnit.ConsoleRunner.3.6.1\tools\nunit3-console.exe' cannot be found - have you specified your arguments correctly?
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\ReverseTests\_RunCodeCoverageInOutput.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>´++"..\..\packages\OpenCover.4.6.519\tools\OpenCover.Console.exe" -target:"..\..\packages\NUnit.ConsoleRunner.3.6.1\tools\nunit3-console.exe" -targetargs:"/nologo ReverseTests.dll /noshadow" -filter:"+[Reverse]Reverse*" -excludebyattribute:"System.CodeDom.Compiler.GeneratedCodeAttribute" -register:user -output:"_CodeCoverageResult.xml"
+Target '..\..\packages\NUnit.ConsoleRunner.3.6.1\tools\nunit3-console.exe' cannot be found - have you specified your arguments correctly?
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\ReverseTests\_RunCodeCoverageInOutput.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>´++"..\..\packages\OpenCover.4.6.519\tools\OpenCover.Console.exe" -target:"..\..\packages\NUnit.ConsoleRunner.3.6.1\tools\nunit3-console.exe" -targetargs:"/nologo ReverseTests.dll /noshadow" -filter:"+[Reverse]Reverse*" -excludebyattribute:"System.CodeDom.Compiler.GeneratedCodeAttribute" -register:user -output:"_CodeCoverageResult.xml"
+Target '..\..\packages\NUnit.ConsoleRunner.3.6.1\tools\nunit3-console.exe' cannot be found - have you specified your arguments correctly?
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>"..\..\packages\ReportGenerator.2.5.6\tools\ReportGenerator.exe" "-reports:_CodeCoverageResult.xml" "-targetdir:_CodeCoverageReport"
+The system cannot find the path specified.
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\ReverseTests\_RunCodeCoverageInOutput.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>´++"..\..\packages\OpenCover.4.6.519\tools\OpenCover.Console.exe" -target:"..\..\packages\NUnit.ConsoleRunner.3.6.1\tools\nunit3-console.exe" -targetargs:"/nologo ReverseTests.dll /noshadow" -filter:"+[Reverse]Reverse*" -excludebyattribute:"System.CodeDom.Compiler.GeneratedCodeAttribute" -register:user -output:"_CodeCoverageResult.xml"
+Target '..\..\packages\NUnit.ConsoleRunner.3.6.1\tools\nunit3-console.exe' cannot be found - have you specified your arguments correctly?
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>"..\..\packages\ReportGenerator.2.5.6\tools\ReportGenerator.exe" "-reports:_CodeCoverageResult.xml" "-targetdir:_CodeCoverageReport"
+The system cannot find the path specified.
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\ReverseTests\_RunCodeCoverageInOutput.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>´++"..\..\packages\OpenCover.4.6.519\OpenCover.Console.exe" -target:"..\..\packages\NUnit.ConsoleRunner.3.6.1\tools\nunit3-console.exe" -targetargs:"/nologo ReverseTests.dll /noshadow" -filter:"+[Reverse]Reverse*" -excludebyattribute:"System.CodeDom.Compiler.GeneratedCodeAttribute" -register:user -output:"_CodeCoverageResult.xml"
+'´++"..\..\packages\OpenCover.4.6.519\OpenCover.Console.exe"' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>"..\..\packages\ReportGenerator.2.5.6\tools\ReportGenerator.exe" "-reports:_CodeCoverageResult.xml" "-targetdir:_CodeCoverageReport"
+The system cannot find the path specified.
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\ReverseTests\_RunCodeCoverageInOutput.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>´++"..\..\packages\OpenCover.4.6.519\tools\OpenCover.Console.exe" -target:"..\..\packages\NUnit.ConsoleRunner.3.6.1\tools\nunit3-console.exe" -targetargs:"/nologo ReverseTests.dll /noshadow" -filter:"+[Reverse]Reverse*" -excludebyattribute:"System.CodeDom.Compiler.GeneratedCodeAttribute" -register:user -output:"_CodeCoverageResult.xml"
+Target '..\..\packages\NUnit.ConsoleRunner.3.6.1\tools\nunit3-console.exe' cannot be found - have you specified your arguments correctly?
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>"..\..\packages\ReportGenerator.2.5.6\tools\ReportGenerator.exe" "-reports:_CodeCoverageResult.xml" "-targetdir:_CodeCoverageReport"
+The system cannot find the path specified.
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\ReverseTests\_RunCodeCoverageInOutput.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>´++"..\..\packages\OpenCover.4.6.519\tools\OpenCover.Console.exe" -target:nunitrunner.bat -filter:"+[Reverse]Reverse*" -register:user -output:"_CodeCoverageResult.xml"
+Target 'nunitrunner.bat' cannot be found - have you specified your arguments correctly?
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\ReverseTests\_RunCodeCoverageInOutput.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>´++"..\..\packages\OpenCover.4.6.519\tools\OpenCover.Console.exe" -target:"nunitrunner.bat" -filter:"+[Reverse]Reverse*" -register:user -output:"_CodeCoverageResult.xml"
+Target 'nunitrunner.bat' cannot be found - have you specified your arguments correctly?
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\ReverseTests\nunitrunner.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>´++ "..\packages\NUnit.ConsoleRunner.3.6.1\tools\nunit3-console.exe" -targetargs:"/nologo ReverseTests.dll /noshadow"
+'´++' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\ReverseTests\nunitrunner.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>´++"..\packages\NUnit.ConsoleRunner.3.6.1\tools\nunit3-console.exe" -targetargs:"/nologo ReverseTests.dll /noshadow"
+The system cannot find the path specified.
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\ReverseTests\nunitrunner.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>´++"..\..\packages\NUnit.ConsoleRunner.3.6.1\tools\nunit3-console.exe" -targetargs:"/nologo ReverseTests.dll /noshadow"
+NUnit Console Runner 3.6.1
+Copyright (C) 2017 Charlie Poole
+
+Invalid argument: -targetargs:/nologo ReverseTests.dll /noshadow
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\ReverseTests\nunitrunner.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>´++"..\..\packages\NUnit.ConsoleRunner.3.6.1\tools\nunit3-console.exe" -targetargs:"/nologo ReverseTests.dll /noshadow"
+NUnit Console Runner 3.6.1
+Copyright (C) 2017 Charlie Poole
+
+Invalid argument: -targetargs:/nologo ReverseTests.dll /noshadow
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\ReverseTests\_RunCodeCoverageInOutput.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>´++"..\..\packages\OpenCover.4.6.519\tools\OpenCover.Console.exe" -target:nunitrunner.bat -filter:"+[Reverse]Reverse*" -register:user -output:"_CodeCoverageResult.xml"
+Target 'nunitrunner.bat' cannot be found - have you specified your arguments correctly?
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\ReverseTests\nunitrunner.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>´++"..\..\packages\NUnit.ConsoleRunner.3.6.1\tools\nunit3-console.exe ReverseTests.dll /noshadow"
+The system cannot find the path specified.
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\ReverseTests\nunitrunner.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>´++"..\..\packages\NUnit.ConsoleRunner.3.6.1\tools\nunit3-console.exe" -targetargs:"ReverseTests.dll /noshadow"
+NUnit Console Runner 3.6.1
+Copyright (C) 2017 Charlie Poole
+
+Invalid argument: -targetargs:ReverseTests.dll /noshadow
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\ReverseTests\nunitrunner.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>´++"..\..\packages\NUnit.ConsoleRunner.3.6.1\tools\nunit3-console.exe" -targetargs:"ReverseTests.dll/noshadow"
+NUnit Console Runner 3.6.1
+Copyright (C) 2017 Charlie Poole
+
+Invalid argument: -targetargs:ReverseTests.dll/noshadow
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\ReverseTests\nunitrunner.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>´++"..\..\packages\NUnit.ConsoleRunner.3.6.1\tools\nunit3-console.exe"
+NUnit Console Runner 3.6.1
+Copyright (C) 2017 Charlie Poole
+
+
+NUNIT3-CONSOLE [inputfiles] [options]
+
+Runs a set of NUnit tests from the console.
+
+InputFiles:
+      One or more assemblies or test projects of a recognized type.
+
+Options:
+      --test=NAMES           Comma-separated list of NAMES of tests to run or
+                               explore. This option may be repeated.
+      --testlist=PATH        File PATH containing a list of tests to run, one
+                               per line. This option may be repeated.
+      --where=EXPRESSION     Test selection EXPRESSION indicating what tests
+                               will be run. See description below.
+      --params, -p=VALUE     Define a test parameter.
+      --timeout=MILLISECONDS Set timeout for each test case in MILLISECONDS.
+      --seed=SEED            Set the random SEED used to generate test cases.
+      --workers=NUMBER       Specify the NUMBER of worker threads to be used
+                               in running tests. If not specified, defaults to
+                               2 or the number of processors, whichever is
+                               greater.
+      --stoponerror          Stop run immediately upon any test failure or
+                               error.
+      --wait                 Wait for input before closing console window.
+      --work=PATH            PATH of the directory to use for output files. If
+                               not specified, defaults to the current
+                               directory.
+      --output, --out=PATH   File PATH to contain text output from the tests.
+      --err=PATH             File PATH to contain error output from the tests.
+      --full                 Prints full report of all test results.
+      --result=SPEC          An output SPEC for saving the test results.
+                               This option may be repeated.
+      --explore[=SPEC]       Display or save test info rather than running
+                               tests. Optionally provide an output SPEC for
+                               saving the test info. This option may be
+                               repeated.
+      --noresult             Don't save any test results.
+      --labels=VALUE         Specify whether to write test case names to the
+                               output. Values: Off, On, All
+      --test-name-format=VALUE
+                             Non-standard naming pattern to use in generating
+                               test names.
+      --trace=LEVEL          Set internal trace LEVEL.
+                               Values: Off, Error, Warning, Info, Verbose (
+                               Debug)
+      --teamcity             Turns on use of TeamCity service messages.
+                               TeamCity engine extension is required.
+      --noheader, --noh      Suppress display of program information at start
+                               of run.
+      --nocolor, --noc       Displays console output without color.
+      --verbose, -v          Display additional information as the test runs.
+      --help, -h             Display this message and exit.
+      --version, -V          Display the header and exit.
+      --encoding=VALUE       Specifies the encoding to use for Console
+                               standard output, for example utf-8, ascii,
+                               unicode.
+      --config=NAME          NAME of a project configuration to load (e.g.:
+                               Debug).
+      --process=PROCESS      PROCESS isolation for test assemblies.
+                               Values: InProcess, Separate, Multiple. If not
+                               specified, defaults to Separate for a single
+                               assembly or Multiple for more than one.
+      --inprocess            Synonym for --process:InProcess
+      --domain=DOMAIN        DOMAIN isolation for test assemblies.
+                               Values: None, Single, Multiple. If not
+                               specified, defaults to Single for a single
+                               assembly or Multiple for more than one.
+      --framework=FRAMEWORK  FRAMEWORK type/version to use for tests.
+                               Examples: mono, net-3.5, v4.0, 2.0, mono-4.0.
+                               If not specified, tests will run under the
+                               framework they are compiled with.
+      --x86                  Run tests in an x86 process on 64 bit systems
+      --dispose-runners      Dispose each test runner after it has finished
+                               running its tests.
+      --shadowcopy           Shadow copy test files
+      --loaduserprofile      Load user profile in test runner processes
+      --skipnontestassemblies
+                             Skip any non-test assemblies specified, without
+                               error.
+      --agents=NUMBER        Specify the maximum NUMBER of test assembly
+                               agents to run at one time. If not specified,
+                               there is no limit.
+      --debug                Launch debugger to debug tests.
+      --pause                Pause before running to allow attaching a
+                               debugger.
+      --list-extensions      List all extension points and the extensions for
+                               each.
+      --set-principal-policy=VALUE
+                             Set PrincipalPolicy for the test domain.
+
+Description:
+      By default, this command runs the tests contained in the
+      assemblies and projects specified. If the --explore option
+      is used, no tests are executed but a description of the tests
+      is saved in the specified or default format.
+
+      The --where option is intended to extend or replace the earlier
+      --test, --include and --exclude options by use of a selection expression
+      describing exactly which tests to use. Examples of usage are:
+          --where:cat==Data
+          --where "method =~ /DataTest*/ && cat = Slow"
+
+      Care should be taken in combining --where with --test or --testlist.
+      The test and where specifications are implicitly joined using &&, so
+      that BOTH sets of criteria must be satisfied in order for a test to run.
+      See the docs for more information and a full description of the syntax
+      information and a full description of the syntax.
+
+      Several options that specify processing of XML output take
+      an output specification as a value. A SPEC may take one of
+      the following forms:
+          --OPTION:filename
+          --OPTION:filename;format=formatname
+          --OPTION:filename;transform=xsltfile
+
+      The --result option may use any of the following formats:
+          nunit3 - the native XML format for NUnit 3.0
+          nunit2 - legacy XML format used by earlier releases of NUnit
+
+      The --explore option may use any of the following formats:
+          nunit3 - the native XML format for NUnit 3.0
+          cases  - a text file listing the full names of all test cases.
+      If --explore is used without any specification following, a list of
+      test cases is output to the writer.
+
+      If none of the options {--result, --explore, --noxml} is used,
+      NUnit saves the results to TestResult.xml in nunit3 format
+
+      Any transforms provided must handle input in the native nunit3 format.
+
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\ReverseTests\_RunCodeCoverageInOutput.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>´++"..\..\packages\OpenCover.4.6.519\tools\OpenCover.Console.exe" -target:nunitrunner.bat -filter:"+[Reverse]Reverse*" -register:user -output:"_CodeCoverageResult.xml"
+Target 'nunitrunner.bat' cannot be found - have you specified your arguments correctly?
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\ReverseTests\_RunCodeCoverageInOutput.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>´++"..\..\packages\OpenCover.4.6.519\tools\OpenCover.Console.exe" -target:nunitrunner.bat -filter:"+[Reverse]Reverse*" -register:user -output:"_CodeCoverageResult.xml"
+Target 'nunitrunner.bat' cannot be found - have you specified your arguments correctly?
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\ReverseTests\report.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>´++"..\..\packages\ReportGenerator.2.5.6\tools\ReportGenerator.exe" "-reports:_CodeCoverageResult.xml" "-targetdir:_CodeCoverageReport"
+No report files specified.
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\ReverseTests\_RunCodeCoverageInOutput.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>´++"..\..\packages\OpenCover.4.6.519\tools\OpenCover.Console.exe" -target:nunitrunner.bat -filter:"+[Reverse]Reverse*" -register:user -output:"_CodeCoverageResult.xml"
+Target 'nunitrunner.bat' cannot be found - have you specified your arguments correctly?
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\runthetests.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>REM Create a 'GeneratedReports' folder if it does not exist
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>if not exist "C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\GeneratedReports" mkdir "C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\GeneratedReports"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>REM Remove any previous test execution files to prevent issues overwriting
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>IF EXIST "C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\Palindrome.trx" del "C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\Palindrome.trx"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>REM Remove any previously created test output directories
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>CD C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>FOR / %X IN (Lenovo*) DO RD /S /Q "%X"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>REM Run the tests against the targeted output
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>call :RunOpenCoverUnitTestMetrics
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\..\packages\OpenCover.4.6.519\tools\OpenCover.Console.exe" -register:user -target:"\..\IDE\mstest.exe" -targetargs:"/testcontainer:\"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\..\PalindromeTests\bin\Debug\PalindromeTests.dll\" /resultsfile:\"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\Palindrome.trx\"" -filter:"+[Palindrome*]* -[PalindromeTests]* -[*]Palindrome.RouteConfig" -mergebyhash -skipautoprops -output:"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\\GeneratedReports\PalindromeReport.xml"
+The system cannot find the path specified.
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>exit /b 3
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>REM Generate the report output based on the test results
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>if 3 EQU 0 (call :RunReportGeneratorOutput )
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>REM Launch the report
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>if 3 EQU 0 (call :RunLaunchReport )
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>exit /b 3
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\runthetests.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>REM Create a 'GeneratedReports' folder if it does not exist
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>if not exist "C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\GeneratedReports" mkdir "C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\GeneratedReports"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>REM Remove any previous test execution files to prevent issues overwriting
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>IF EXIST "C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\Palindrome.trx" del "C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\Palindrome.trx"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>REM Remove any previously created test output directories
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>CD C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>FOR / %X IN (Lenovo*) DO RD /S /Q "%X"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>REM Run the tests against the targeted output
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>call :RunOpenCoverUnitTestMetrics
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\..\packages\OpenCover.4.6.519\tools\OpenCover.Console.exe" -register:user -target:"\..\IDE\mstest.exe" -targetargs:"/testcontainer:\"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\..\PalindromeTests\bin\Debug\PalindromeTests.dll\" /resultsfile:\"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\Palindrome.trx\"" -filter:"+[Palindrome*]* -[PalindromeTests]* -[*]Palindrome.RouteConfig" -mergebyhash -skipautoprops -output:"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\\GeneratedReports\PalindromeReport.xml"
+The system cannot find the path specified.
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>exit /b 3
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>REM Generate the report output based on the test results
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>if 3 EQU 0 (call :RunReportGeneratorOutput )
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>REM Launch the report
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>if 3 EQU 0 (call :RunLaunchReport )
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>exit /b 3
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\PalindromeTests\runtests.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>´++../..\packages\NUnit.ConsoleRunner.3.6.1\tools\nunit3-console.exe PalindromeTests.dll /noshadow
+'´++..' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\PalindromeTests\runopencover.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>´++..\..\packages\OpenCover.4.6.519\tools\OpenCover.Console.exe -target:runtests.bat -register:user -filter:+[Palindrome]*
+Target 'runtests.bat' cannot be found - have you specified your arguments correctly?
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>..\..\packages\ReportGenerator.2.5.6\tools\reportgenerator.exe -reports:results.xml -targetdir:coverage
+The system cannot find the path specified.
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\PalindromeTests\runopencover.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>´++..\..\packages\OpenCover.4.6.519\tools\OpenCover.Console.exe -target:runtests.bat -register:user -filter:+[Palindrome]*
+Target 'runtests.bat' cannot be found - have you specified your arguments correctly?
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\PalindromeTests\runopencover.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>´++..\..\packages\OpenCover.4.6.519\tools\OpenCover.Console.exe -target:runtests.bat -register:user -filter:+[Palindrome]*
+Target 'runtests.bat' cannot be found - have you specified your arguments correctly?
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\PalindromeTests\runopencover.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>´++.\packages\OpenCover.4.6.519\tools\OpenCover.Console.exe -register:user -target:"C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\MSTest.exe" -targetargs:"/noresults /noisolation /testcontainer:"".\PalindromeTests\bin\Debug\PalindromeTests.dll" -excludebyattribute:*.ExcludeFromCodeCoverage* -hideskipped:All -output:.\MyProject_coverage.xml
+The system cannot find the path specified.
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\PalindromeTests\runopencover.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>´++..\packages\OpenCover.4.6.519\tools\OpenCover.Console.exe -register:user -target:"C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\MSTest.exe" -targetargs:"/noresults /noisolation /testcontainer:"".\PalindromeTests\bin\Debug\PalindromeTests.dll" -excludebyattribute:*.ExcludeFromCodeCoverage* -hideskipped:All -output:.\MyProject_coverage.xml
+The system cannot find the path specified.
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\PalindromeTests\runopencover.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>´++..\..\packages\OpenCover.4.6.519\tools\OpenCover.Console.exe -register:user -target:"C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\MSTest.exe" -targetargs:"/noresults /noisolation /testcontainer:"".\PalindromeTests\bin\Debug\PalindromeTests.dll" -excludebyattribute:*.ExcludeFromCodeCoverage* -hideskipped:All -output:.\MyProject_coverage.xml
+Executing: C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\MSTest.exe
+Microsoft (R) Test Execution Command Line Tool Version 14.0.23107.0
+Copyright (c) Microsoft Corporation. All rights reserved.
+
+Loading .\PalindromeTests\bin\Debug\PalindromeTests.dll...
+Starting execution...
+
+Results               Top Level Tests
+-------               ---------------
+Passed                Palindrome.Tests.PalindromeTests.IsNotPalindromeTest
+Passed                Palindrome.Tests.PalindromeTests.IsPalindromeTest
+Failed                Palindrome.Tests.PalindromeTests.IsPalindromeTest1
+2/3 test(s) Passed, 1 Failed
+
+Summary
+-------
+Test Run Failed.
+  Passed  2
+  Failed  1
+  ---------
+  Total   3
+Results file:  C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\TestResults\Lenovo_LAPTOP-3DPHEV1J 2017-04-17 18_50_47.trx
+Test Settings: Default Test Settings
+Committing...
+Visited Classes 3 of 3 (100)
+Visited Methods 5 of 5 (100)
+Visited Points 28 of 29 (96.55)
+Visited Branches 7 of 7 (100)
+
+==== Alternative Results (includes all methods including those without corresponding source) ====
+Alternative Visited Classes 3 of 3 (100)
+Alternative Visited Methods 8 of 8 (100)
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\PalindromeTests\runopencover.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>´++..\..\packages\OpenCover.4.6.519\tools\OpenCover.Console.exe -register:user -target:"C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\MSTest.exe" -targetargs:"/noresults /noisolation /testcontainer:"".\PalindromeTests\bin\Debug\PalindromeTests.dll" -excludebyattribute:*.ExcludeFromCodeCoverage* -hideskipped:All -output:.\MyProject_coverage.xml
+Executing: C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\MSTest.exe
+Microsoft (R) Test Execution Command Line Tool Version 14.0.23107.0
+Copyright (c) Microsoft Corporation. All rights reserved.
+
+Loading .\PalindromeTests\bin\Debug\PalindromeTests.dll...
+Starting execution...
+
+Results               Top Level Tests
+-------               ---------------
+Passed                Palindrome.Tests.PalindromeTests.IsNotPalindromeTest
+Passed                Palindrome.Tests.PalindromeTests.IsPalindromeTest
+Failed                Palindrome.Tests.PalindromeTests.IsPalindromeTest1
+2/3 test(s) Passed, 1 Failed
+
+Summary
+-------
+Test Run Failed.
+  Passed  2
+  Failed  1
+  ---------
+  Total   3
+Results file:  C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\TestResults\Lenovo_LAPTOP-3DPHEV1J 2017-04-17 18_58_06.trx
+Test Settings: Default Test Settings
+Committing...
+Source file is modified: C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\PalindromeTests\PalindromeTests.cs
+Visited Classes 3 of 3 (100)
+Visited Methods 5 of 5 (100)
+Visited Points 28 of 29 (96.55)
+Visited Branches 7 of 7 (100)
+
+==== Alternative Results (includes all methods including those without corresponding source) ====
+Alternative Visited Classes 3 of 3 (100)
+Alternative Visited Methods 8 of 8 (100)
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\PalindromeTests\runopencover.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>´++..\..\packages\OpenCover.4.6.519\tools\OpenCover.Console.exe -register:user -target:"C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\MSTest.exe" -targetargs:"/noresults /noisolation /testcontainer:"".\PalindromeTests\bin\Debug\PalindromeTests.dll" -excludebyattribute:*.ExcludeFromCodeCoverage* -hideskipped:All -output:.\MyProject_coverage.xml
+Executing: C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\MSTest.exe
+Microsoft (R) Test Execution Command Line Tool Version 14.0.23107.0
+Copyright (c) Microsoft Corporation. All rights reserved.
+
+Loading .\PalindromeTests\bin\Debug\PalindromeTests.dll...
+Starting execution...
+
+Results               Top Level Tests
+-------               ---------------
+Passed                Palindrome.Tests.PalindromeTests.IsNotPalindromeTest
+Passed                Palindrome.Tests.PalindromeTests.IsPalindromeTest
+Failed                Palindrome.Tests.PalindromeTests.IsPalindromeTest1
+2/3 test(s) Passed, 1 Failed
+
+Summary
+-------
+Test Run Failed.
+  Passed  2
+  Failed  1
+  ---------
+  Total   3
+Results file:  C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\TestResults\Lenovo_LAPTOP-3DPHEV1J 2017-04-17 18_58_22.trx
+Test Settings: Default Test Settings
+Committing...
+Source file is modified: C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\PalindromeTests\PalindromeTests.cs
+Visited Classes 3 of 3 (100)
+Visited Methods 5 of 5 (100)
+Visited Points 28 of 29 (96.55)
+Visited Branches 7 of 7 (100)
+
+==== Alternative Results (includes all methods including those without corresponding source) ====
+Alternative Visited Classes 3 of 3 (100)
+Alternative Visited Methods 8 of 8 (100)
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\PalindromeTests\runopencover.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>´++..\..\packages\OpenCover.4.6.519\tools\OpenCover.Console.exe -register:user -target:"C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\MSTest.exe" -targetargs:"/noresults /noisolation /testcontainer:"".\PalindromeTests\bin\Debug\PalindromeTests.dll" -excludebyattribute:*.ExcludeFromCodeCoverage* -hideskipped:All -output:.\MyProject_coverage.xml
+Executing: C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\MSTest.exe
+Microsoft (R) Test Execution Command Line Tool Version 14.0.23107.0
+Copyright (c) Microsoft Corporation. All rights reserved.
+
+Loading .\PalindromeTests\bin\Debug\PalindromeTests.dll...
+Starting execution...
+
+Results               Top Level Tests
+-------               ---------------
+Passed                Palindrome.Tests.PalindromeTests.IsNotPalindromeTest
+Passed                Palindrome.Tests.PalindromeTests.IsPalindromeTest
+2/2 test(s) Passed
+
+Summary
+-------
+Test Run Completed.
+  Passed  2
+  ---------
+  Total   2
+Results file:  C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\TestResults\Lenovo_LAPTOP-3DPHEV1J 2017-04-17 19_00_47.trx
+Test Settings: Default Test Settings
+Committing...
+Visited Classes 3 of 3 (100)
+Visited Methods 4 of 4 (100)
+Visited Points 26 of 26 (100)
+Visited Branches 6 of 6 (100)
+
+==== Alternative Results (includes all methods including those without corresponding source) ====
+Alternative Visited Classes 3 of 3 (100)
+Alternative Visited Methods 7 of 7 (100)
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\PalindromeTests\reportopencover.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>´++"..\..\packages\ReportGenerator.2.5.6\tools\ReportGenerator.exe" "-reports:MyProject_coverage.xml" "-targetdir:OpenCoverageReport"
+Loading report 'C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\MyProject_coverage.xml'
+ Preprocessing report
+ Initiating parser for OpenCover
+  Current Assembly: Palindrome
+  Current Assembly: PalindromeTests
+  Current Assembly: ReverseString
+Initializing report builders for report types: Html
+Analyzing 3 classes
+ Creating report 1/3 (Assembly: Palindrome, Class: Palindrome.Palindrome)
+ Creating report 2/3 (Assembly: PalindromeTests, Class: Palindrome.Tests.PalindromeTests)
+ Creating report 3/3 (Assembly: ReverseString, Class: ReverseString.ReverseString)
+ Creating summary
+Report generation took 2.0 seconds
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult\ClassResultTests\cover.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>´++.\packages\OpenCover.4.6.519\tools\OpenCover.Console.exe -register:user -target:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\MSTest.exe" -targetargs:"/noresults /noisolation /testcontainer:"".\ClassResultTests\bin\Debug\ClassResultTests.dll" -excludebyattribute:*.ExcludeFromCodeCoverage* -hideskipped:All -output:.\Result_coverage.xml
+The system cannot find the path specified.
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult\ClassResultTests\cover.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>´++..\packages\OpenCover.4.6.519\tools\OpenCover.Console.exe -register:user -target:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\MSTest.exe" -targetargs:"/noresults /noisolation /testcontainer:"".\ClassResultTests\bin\Debug\ClassResultTests.dll" -excludebyattribute:*.ExcludeFromCodeCoverage* -hideskipped:All -output:.\Result_coverage.xml
+The system cannot find the path specified.
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult\ClassResultTests\cover.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>´++..\..\packages\OpenCover.4.6.519\tools\OpenCover.Console.exe -register:user -target:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\MSTest.exe" -targetargs:"/noresults /noisolation /testcontainer:""..\ClassResultTests\bin\Debug\ClassResultTests.dll" -excludebyattribute:*.ExcludeFromCodeCoverage* -hideskipped:All -output:.\Result_coverage.xml
+Target 'C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\MSTest.exe' cannot be found - have you specified your arguments correctly?
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>dir
+ Volume in drive C is Windows
+ Volume Serial Number is 6414-B461
+
+ Directory of C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString
+
+17/04/2017  21:51    <DIR>          .
+17/04/2017  21:51    <DIR>          ..
+16/04/2017  22:39    <DIR>          ClassLibrary1
+17/04/2017  21:51            60,134 codecovrunbatchcmds.txt
+17/04/2017  15:07    <DIR>          GeneratedReports
+17/04/2017  19:00            14,098 MyProject_coverage.xml
+17/04/2017  19:01    <DIR>          OpenCoverageReport
+17/04/2017  15:49    <DIR>          packages
+17/04/2017  16:20    <DIR>          Palindrome
+17/04/2017  19:00    <DIR>          PalindromeTests
+17/04/2017  15:49    <DIR>          Reverse
+17/04/2017  16:20    <DIR>          ReverseString
+17/04/2017  15:44             3,690 ReverseString.sln
+17/04/2017  16:20    <DIR>          ReverseStringTests
+17/04/2017  18:44    <DIR>          ReverseTests
+17/04/2017  15:07             1,526 runthetests.bat
+17/04/2017  19:00    <DIR>          TestResults
+17/04/2017  16:06    <DIR>          _CodeCoverageReport
+               4 File(s)         79,448 bytes
+              14 Dir(s)  305,599,057,920 bytes free
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>./
+'.' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>.
+'.' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString>cd..
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\PalindromeTests\runopencover.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects>´++..\..\packages\OpenCover.4.6.519\tools\OpenCover.Console.exe -register:user -target:"C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\MSTest.exe" -targetargs:"/noresults /noisolation /testcontainer:"".\PalindromeTests\bin\Debug\PalindromeTests.dll" -excludebyattribute:*.ExcludeFromCodeCoverage* -hideskipped:All -output:.\MyProject_coverage.xml
+The system cannot find the path specified.
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects>cd root
+The system cannot find the path specified.
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects>cd ClassResult
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult\ClassResultTests\cover.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult>´++..\..\packages\OpenCover.4.6.519\tools\OpenCover.Console.exe -register:user -target:"C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\MSTest.exe" -targetargs:"/noresults /noisolation /testcontainer:"".\ClassResultTests\bin\Debug\ClassResultTests.dll" -excludebyattribute:*.ExcludeFromCodeCoverage* -hideskipped:All -output:.\ClassResultTests_coverage.xml
+Executing: C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\MSTest.exe
+Microsoft (R) Test Execution Command Line Tool Version 14.0.23107.0
+Copyright (c) Microsoft Corporation. All rights reserved.
+
+Loading .\ClassResultTests\bin\Debug\ClassResultTests.dll...
+Starting execution...
+
+Results               Top Level Tests
+-------               ---------------
+Passed                ClassResult.Tests.ResultTests.FindRankTest
+1/1 test(s) Passed
+
+Summary
+-------
+Test Run Completed.
+  Passed  1
+  ---------
+  Total   1
+Results file:  C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult\TestResults\Lenovo_LAPTOP-3DPHEV1J 2017-04-17 22_47_50.trx
+Test Settings: Default Test Settings
+Committing...
+Source file is modified: c:\users\lenovo\documents\visual studio 2015\Projects\ClassResult\ClassResult\Result.cs
+Visited Classes 2 of 2 (100)
+Visited Methods 2 of 2 (100)
+Visited Points 8 of 17 (47.06)
+Visited Branches 3 of 12 (25)
+
+==== Alternative Results (includes all methods including those without corresponding source) ====
+Alternative Visited Classes 2 of 2 (100)
+Alternative Visited Methods 4 of 4 (100)
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult>cd..
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult\ClassResultTests\cover.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects>´++..\..\packages\OpenCover.4.6.519\tools\OpenCover.Console.exe -register:user -target:"C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\MSTest.exe" -targetargs:"/noresults /noisolation /testcontainer:"".\ClassResultTests\bin\Debug\ClassResultTests.dll" -excludebyattribute:*.ExcludeFromCodeCoverage* -hideskipped:All -output:.\ClassResultTests_coverage.xml
+The system cannot find the path specified.
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects>cd ClassResult
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\PalindromeTests\runopencover.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult>´++..\..\packages\OpenCover.4.6.519\tools\OpenCover.Console.exe -register:user -target:"C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\MSTest.exe" -targetargs:"/noresults /noisolation /testcontainer:"".\PalindromeTests\bin\Debug\PalindromeTests.dll" -excludebyattribute:*.ExcludeFromCodeCoverage* -hideskipped:All -output:.\MyProject_coverage.xml
+Executing: C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\MSTest.exe
+Microsoft (R) Test Execution Command Line Tool Version 14.0.23107.0
+Copyright (c) Microsoft Corporation. All rights reserved.
+
+File ".\PalindromeTests\bin\Debug\PalindromeTests.dll" not found .
+For switch syntax, type "MSTest /help"
+Committing...
+No results, this could be for a number of reasons. The most common reasons are:
+    1) missing PDBs for the assemblies that match the filter please review the
+    output file and refer to the Usage guide (Usage.rtf) about filters.
+    2) the profiler may not be registered correctly, please refer to the Usage
+    guide and the -register switch.
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ReverseString\PalindromeTests\runopencover.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult>´++..\..\packages\OpenCover.4.6.519\tools\OpenCover.Console.exe -register:user -target:"C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\MSTest.exe" -targetargs:"/noresults /noisolation /testcontainer:"".\PalindromeTests\bin\Debug\PalindromeTests.dll" -excludebyattribute:*.ExcludeFromCodeCoverage* -hideskipped:All -output:.\MyProject_coverage.xml
+Executing: C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\MSTest.exe
+Microsoft (R) Test Execution Command Line Tool Version 14.0.23107.0
+Copyright (c) Microsoft Corporation. All rights reserved.
+
+File ".\PalindromeTests\bin\Debug\PalindromeTests.dll" not found .
+For switch syntax, type "MSTest /help"
+Committing...
+No results, this could be for a number of reasons. The most common reasons are:
+    1) missing PDBs for the assemblies that match the filter please review the
+    output file and refer to the Usage guide (Usage.rtf) about filters.
+    2) the profiler may not be registered correctly, please refer to the Usage
+    guide and the -register switch.
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult\ClassResultTests\cover.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult>´++..\..\packages\OpenCover.4.6.519\tools\OpenCover.Console.exe -register:user -target:"C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\MSTest.exe" -targetargs:"/noresults /noisolation /testcontainer:"".\ClassResultTests\bin\Debug\ClassResultTests.dll" -excludebyattribute:*.ExcludeFromCodeCoverage* -hideskipped:All -output:.\ClassResultTests_coverage.xml
+Executing: C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\MSTest.exe
+Microsoft (R) Test Execution Command Line Tool Version 14.0.23107.0
+Copyright (c) Microsoft Corporation. All rights reserved.
+
+Loading .\ClassResultTests\bin\Debug\ClassResultTests.dll...
+Starting execution...
+
+Results               Top Level Tests
+-------               ---------------
+Passed                ClassResult.Tests.ResultTests.FindRankTest
+1/1 test(s) Passed
+
+Summary
+-------
+Test Run Completed.
+  Passed  1
+  ---------
+  Total   1
+Results file:  C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult\TestResults\Lenovo_LAPTOP-3DPHEV1J 2017-04-17 22_54_44.trx
+Test Settings: Default Test Settings
+Committing...
+Visited Classes 2 of 2 (100)
+Visited Methods 2 of 2 (100)
+Visited Points 8 of 17 (47.06)
+Visited Branches 3 of 12 (25)
+
+==== Alternative Results (includes all methods including those without corresponding source) ====
+Alternative Visited Classes 2 of 2 (100)
+Alternative Visited Methods 4 of 4 (100)
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult>"..\..\packages\ReportGenerator.2.5.6\tools\ReportGenerator.exe" "-reports:ClassResultTests_coverage.xml" "-targetdir:CoverageReport"
+The system cannot find the path specified.
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult\ClassResultTests\cover.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult>´++..\..\packages\OpenCover.4.6.519\tools\OpenCover.Console.exe -register:user -target:"C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\MSTest.exe" -targetargs:"/noresults /noisolation /testcontainer:"".\ClassResultTests\bin\Debug\ClassResultTests.dll" -excludebyattribute:*.ExcludeFromCodeCoverage* -hideskipped:All -output:.\ClassResultTests_coverage.xml
+Executing: C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\MSTest.exe
+Microsoft (R) Test Execution Command Line Tool Version 14.0.23107.0
+Copyright (c) Microsoft Corporation. All rights reserved.
+
+Loading .\ClassResultTests\bin\Debug\ClassResultTests.dll...
+Starting execution...
+
+Results               Top Level Tests
+-------               ---------------
+Passed                ClassResult.Tests.ResultTests.FindRankTest
+1/1 test(s) Passed
+
+Summary
+-------
+Test Run Completed.
+  Passed  1
+  ---------
+  Total   1
+Results file:  C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult\TestResults\Lenovo_LAPTOP-3DPHEV1J 2017-04-17 22_56_47.trx
+Test Settings: Default Test Settings
+Committing...
+Visited Classes 2 of 2 (100)
+Visited Methods 2 of 2 (100)
+Visited Points 8 of 17 (47.06)
+Visited Branches 3 of 12 (25)
+
+==== Alternative Results (includes all methods including those without corresponding source) ====
+Alternative Visited Classes 2 of 2 (100)
+Alternative Visited Methods 4 of 4 (100)
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult>..\..\packages\ReportGenerator.2.5.6\tools\ReportGenerator.exe" "-reports:ClassResultTests_coverage.xml" "-targetdir:CoverageReport
+The system cannot find the path specified.
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult\ClassResultTests\cover.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult>´++..\..\packages\OpenCover.4.6.519\tools\OpenCover.Console.exe -register:user -target:"C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\MSTest.exe" -targetargs:"/noresults /noisolation /testcontainer:"".\ClassResultTests\bin\Debug\ClassResultTests.dll" -excludebyattribute:*.ExcludeFromCodeCoverage* -hideskipped:All -output:.\ClassResultTests_coverage.xml
+Executing: C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\MSTest.exe
+Microsoft (R) Test Execution Command Line Tool Version 14.0.23107.0
+Copyright (c) Microsoft Corporation. All rights reserved.
+
+Loading .\ClassResultTests\bin\Debug\ClassResultTests.dll...
+Starting execution...
+
+Results               Top Level Tests
+-------               ---------------
+Passed                ClassResult.Tests.ResultTests.FindRankTest
+1/1 test(s) Passed
+
+Summary
+-------
+Test Run Completed.
+  Passed  1
+  ---------
+  Total   1
+Results file:  C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult\TestResults\Lenovo_LAPTOP-3DPHEV1J 2017-04-17 22_58_18.trx
+Test Settings: Default Test Settings
+Committing...
+Visited Classes 2 of 2 (100)
+Visited Methods 2 of 2 (100)
+Visited Points 8 of 17 (47.06)
+Visited Branches 3 of 12 (25)
+
+==== Alternative Results (includes all methods including those without corresponding source) ====
+Alternative Visited Classes 2 of 2 (100)
+Alternative Visited Methods 4 of 4 (100)
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult\ClassResultTests\report.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult>´++..\..\packages\ReportGenerator.2.5.6\tools\ReportGenerator.exe" "-reports:ClassResultTests_coverage.xml" "-targetdir:CoverageReport
+The filename, directory name, or volume label syntax is incorrect.
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult\ClassResultTests\report.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult>´++..\..\packages\ReportGenerator.2.5.6\tools\ReportGenerator.exe" "-reports:ClassResultTests_coverage.xml" "-targetdir:CoverageReport
+The filename, directory name, or volume label syntax is incorrect.
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult\ClassResultTests\cover.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult>´++..\..\packages\OpenCover.4.6.519\tools\OpenCover.Console.exe -register:user -target:"C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\MSTest.exe" -targetargs:"/noresults /noisolation /testcontainer:"".\ClassResultTests\bin\Debug\ClassResultTests.dll" -excludebyattribute:*.ExcludeFromCodeCoverage* -hideskipped:All -output:.\ClassResultTests_coverage.xml
+Executing: C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\MSTest.exe
+Microsoft (R) Test Execution Command Line Tool Version 14.0.23107.0
+Copyright (c) Microsoft Corporation. All rights reserved.
+
+Loading .\ClassResultTests\bin\Debug\ClassResultTests.dll...
+Starting execution...
+
+Results               Top Level Tests
+-------               ---------------
+Passed                ClassResult.Tests.ResultTests.FindRankTest
+1/1 test(s) Passed
+
+Summary
+-------
+Test Run Completed.
+  Passed  1
+  ---------
+  Total   1
+Results file:  C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult\TestResults\Lenovo_LAPTOP-3DPHEV1J 2017-04-17 23_00_27.trx
+Test Settings: Default Test Settings
+Committing...
+Visited Classes 2 of 2 (100)
+Visited Methods 2 of 2 (100)
+Visited Points 8 of 17 (47.06)
+Visited Branches 3 of 12 (25)
+
+==== Alternative Results (includes all methods including those without corresponding source) ====
+Alternative Visited Classes 2 of 2 (100)
+Alternative Visited Methods 4 of 4 (100)
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult\ClassResultTests\report.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult>´++"..\..\packages\ReportGenerator.2.5.6\tools\ReportGenerator.exe" "-reports:ClassResultTests_coverage.xml" "-targetdir:CoverageReport"
+Loading report 'C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult\ClassResultTests_coverage.xml'
+ Preprocessing report
+ Initiating parser for OpenCover
+  Current Assembly: ClassResult
+  Current Assembly: ClassResultTests
+Initializing report builders for report types: Html
+Analyzing 2 classes
+ Creating report 1/2 (Assembly: ClassResult, Class: ClassResult.Result)
+ Creating report 2/2 (Assembly: ClassResultTests, Class: ClassResult.Tests.ResultTests)
+ Creating summary
+Report generation took 1.3 seconds
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult\ClassResultTests\cover.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult>´++..\..\packages\OpenCover.4.6.519\tools\OpenCover.Console.exe -register:user -target:"C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\MSTest.exe" -targetargs:"/noresults /noisolation /testcontainer:"".\ClassResultTests\bin\Debug\ClassResultTests.dll" -excludebyattribute:*.ExcludeFromCodeCoverage* -hideskipped:All -output:.\ClassResultTests_coverage.xml
+Executing: C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\MSTest.exe
+Microsoft (R) Test Execution Command Line Tool Version 14.0.23107.0
+Copyright (c) Microsoft Corporation. All rights reserved.
+
+Loading .\ClassResultTests\bin\Debug\ClassResultTests.dll...
+Starting execution...
+
+Results               Top Level Tests
+-------               ---------------
+Passed                ClassResult.Tests.ResultTests.FindRankTest
+1/1 test(s) Passed
+
+Summary
+-------
+Test Run Completed.
+  Passed  1
+  ---------
+  Total   1
+Results file:  C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult\TestResults\Lenovo_LAPTOP-3DPHEV1J 2017-04-17 23_03_24.trx
+Test Settings: Default Test Settings
+Committing...
+Visited Classes 2 of 2 (100)
+Visited Methods 2 of 2 (100)
+Visited Points 8 of 17 (47.06)
+Visited Branches 3 of 12 (25)
+
+==== Alternative Results (includes all methods including those without corresponding source) ====
+Alternative Visited Classes 2 of 2 (100)
+Alternative Visited Methods 4 of 4 (100)
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult>"..\..\packages\ReportGenerator.2.5.6\tools\ReportGenerator.exe" "-reports:ClassResultTests_coverage.xml" "-targetdir:CoverageReport"
+The system cannot find the path specified.
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult\ClassResultTests\cover.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult>´++..\..\packages\OpenCover.4.6.519\tools\OpenCover.Console.exe -register:user -target:"C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\MSTest.exe" -targetargs:"/noresults /noisolation /testcontainer:"".\ClassResultTests\bin\Debug\ClassResultTests.dll" -excludebyattribute:*.ExcludeFromCodeCoverage* -hideskipped:All -output:.\ClassResultTests_coverage.xml
+Executing: C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\MSTest.exe
+Microsoft (R) Test Execution Command Line Tool Version 14.0.23107.0
+Copyright (c) Microsoft Corporation. All rights reserved.
+
+Loading .\ClassResultTests\bin\Debug\ClassResultTests.dll...
+Starting execution...
+
+Results               Top Level Tests
+-------               ---------------
+Passed                ClassResult.Tests.ResultTests.FindRankTest
+1/1 test(s) Passed
+
+Summary
+-------
+Test Run Completed.
+  Passed  1
+  ---------
+  Total   1
+Results file:  C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult\TestResults\Lenovo_LAPTOP-3DPHEV1J 2017-04-17 23_04_29.trx
+Test Settings: Default Test Settings
+Committing...
+Visited Classes 2 of 2 (100)
+Visited Methods 2 of 2 (100)
+Visited Points 8 of 17 (47.06)
+Visited Branches 3 of 12 (25)
+
+==== Alternative Results (includes all methods including those without corresponding source) ====
+Alternative Visited Classes 2 of 2 (100)
+Alternative Visited Methods 4 of 4 (100)
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult>..\..\packages\ReportGenerator.2.5.6\tools\ReportGenerator.exe "-reports:ClassResultTests_coverage.xml" "-targetdir:CoverageReport"
+The system cannot find the path specified.
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult>
