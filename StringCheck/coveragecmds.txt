@@ -1,0 +1,142 @@
+Microsoft Windows [Version 10.0.14393]
+(c) 2016 Microsoft Corporation. All rights reserved.
+
+C:\Users\Lenovo>cd C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\StringCheck\StringCheckTests
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\StringCheck\StringCheckTests>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\StringCheck\StringCheckTests\cover.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\StringCheck\StringCheckTests>´++..\..\packages\OpenCover.4.6.519\tools\OpenCover.Console.exe -register:user -target:"C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\MSTest.exe" -targetargs:"/noresults /noisolation /testcontainer:"".\StringCheckTests\bin\Debug\StringCheckTests.dll" -excludebyattribute:*.ExcludeFromCodeCoverage* -hideskipped:All -output:.\StringCheckTests_coverage.xml
+The system cannot find the path specified.
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\StringCheck\StringCheckTests>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\StringCheck\StringCheckTests\cover.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\StringCheck\StringCheckTests>´++..\..\packages\OpenCover.4.6.519\tools\OpenCover.Console.exe -register:user -target:"C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\MSTest.exe" -targetargs:"/noresults /noisolation /testcontainer:"".\StringCheckTests\bin\Debug\StringCheckTests.dll" -excludebyattribute:*.ExcludeFromCodeCoverage* -hideskipped:All -output:.\StringCheckTests_coverage.xml
+The system cannot find the path specified.
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\StringCheck\StringCheckTests>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\StringCheck\StringCheckTests\cover.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\StringCheck\StringCheckTests>´++..\..\packages\OpenCover.4.6.519\tools\OpenCover.Console.exe -register:user -target:"C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\MSTest.exe" -targetargs:"/noresults /noisolation /testcontainer:"".\StringCheckTests\bin\Debug\StringCheckTests.dll" -excludebyattribute:*.ExcludeFromCodeCoverage* -hideskipped:All -output:.\StringCheckTests_coverage.xml
+The system cannot find the path specified.
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\StringCheck\StringCheckTests>cd..
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\StringCheck>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\StringCheck\StringCheckTests\cover.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\StringCheck>´++..\..\packages\OpenCover.4.6.519\tools\OpenCover.Console.exe -register:user -target:"C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\MSTest.exe" -targetargs:"/noresults /noisolation /testcontainer:"".\StringCheckTests\bin\Debug\StringCheckTests.dll" -excludebyattribute:*.ExcludeFromCodeCoverage* -hideskipped:All -output:.\StringCheckTests_coverage.xml
+Executing: C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\MSTest.exe
+                                   Microsoft (R) Test Execution Command Line Tool Version 14.0.23107.0
+Copyright (c) Microsoft Corporation. All rights reserved.
+
+Loading .\StringCheckTests\bin\Debug\StringCheckTests.dll...
+                                                                                                            Starting execution...
+
+Results               Top Level Tests
+-------               ---------------
+Passed                StringCheck.Tests.StringCompareTests.EqualStringTest
+Passed                StringCheck.Tests.StringCompareTests.NotEqualStringTest1
+Passed                StringCheck.Tests.StringCompareTests.NotEqualStringTest2
+Passed                StringCheck.Tests.StringCompareTests.NotEqualStringTest3
+Passed                StringCheck.Tests.StringCompareTests.NotEqualStringTest4
+5/5 test(s) Passed
+
+Summary
+-------
+Test Run Completed.
+  Passed  5
+  ---------
+  Total   5
+Results file:  C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\StringCheck\TestResults\Lenovo_LAPTOP-3DPHEV1J 2017-04-20 21_50_58.trx
+Test Settings: Default Test Settings
+Committing...
+Visited Classes 2 of 2 (100)
+Visited Methods 8 of 8 (100)
+Visited Points 57 of 57 (100)
+Visited Branches 22 of 22 (100)
+
+==== Alternative Results (includes all methods including those without corresponding source) ====
+Alternative Visited Classes 2 of 2 (100)
+Alternative Visited Methods 10 of 10 (100)
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\StringCheck>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\StringCheck\StringCheckTests\report.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\StringCheck>´++"..\..\packages\ReportGenerator.2.5.6\tools\ReportGenerator.exe" "-reports:StringCheckTests_coverage.xml" "-targetdir:CoverageReport"
+Loading report 'C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\StringCheck\StringCheckTests_coverage.xml'
+ Preprocessing report
+ Initiating parser for OpenCover
+  Current Assembly: StringCheck
+  Current Assembly: StringCheckTests
+Initializing report builders for report types: Html
+Analyzing 2 classes
+ Creating report 1/2 (Assembly: StringCheck, Class: StringCheck.StringCompare)
+ Creating report 2/2 (Assembly: StringCheckTests, Class: StringCheck.Tests.StringCompareTests)
+ Creating summary
+Report generation took 1.8 seconds
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\StringCheck>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\StringCheck\StringCheckTests\report.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\StringCheck>´++"..\..\packages\ReportGenerator.2.5.6\tools\ReportGenerator.exe" "-reports:StringCheckTests_coverage.xml" "-targetdir:CoverageReport"
+Loading report 'C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\StringCheck\StringCheckTests_coverage.xml'
+ Preprocessing report
+ Initiating parser for OpenCover
+  Current Assembly: StringCheck
+  Current Assembly: StringCheckTests
+Initializing report builders for report types: Html
+Analyzing 2 classes
+ Creating report 1/2 (Assembly: StringCheck, Class: StringCheck.StringCompare)
+ Creating report 2/2 (Assembly: StringCheckTests, Class: StringCheck.Tests.StringCompareTests)
+ Creating summary
+Report generation took 1.2 seconds
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\StringCheck>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\StringCheck\StringCheckTests\cover.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\StringCheck>´++..\..\packages\OpenCover.4.6.519\tools\OpenCover.Console.exe -register:user -target:"C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\MSTest.exe" -targetargs:"/noresults /noisolation /testcontainer:"".\StringCheckTests\bin\Debug\StringCheckTests.dll" -excludebyattribute:*.ExcludeFromCodeCoverage* -hideskipped:All -output:.\StringCheckTests_coverage.xml
+Executing: C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\MSTest.exe
+Microsoft (R) Test Execution Command Line Tool Version 14.0.23107.0
+Copyright (c) Microsoft Corporation. All rights reserved.
+
+Loading .\StringCheckTests\bin\Debug\StringCheckTests.dll...
+Starting execution...
+
+Results               Top Level Tests
+-------               ---------------
+Passed                StringCheck.Tests.StringCompareTests.EqualStringTest
+Passed                StringCheck.Tests.StringCompareTests.NotEqualStringTest1
+Passed                StringCheck.Tests.StringCompareTests.NotEqualStringTest2
+Passed                StringCheck.Tests.StringCompareTests.NotEqualStringTest3
+Passed                StringCheck.Tests.StringCompareTests.NotEqualStringTest4
+5/5 test(s) Passed
+
+Summary
+-------
+Test Run Completed.
+  Passed  5
+  ---------
+  Total   5
+Results file:  C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\StringCheck\TestResults\Lenovo_LAPTOP-3DPHEV1J 2017-04-20 21_56_38.trx
+Test Settings: Default Test Settings
+Committing...
+Visited Classes 2 of 2 (100)
+Visited Methods 8 of 8 (100)
+Visited Points 57 of 57 (100)
+Visited Branches 22 of 22 (100)
+
+==== Alternative Results (includes all methods including those without corresponding source) ====
+Alternative Visited Classes 2 of 2 (100)
+Alternative Visited Methods 10 of 10 (100)
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\StringCheck>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\StringCheck\StringCheckTests\report.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\StringCheck>´++"..\..\packages\ReportGenerator.2.5.6\tools\ReportGenerator.exe" "-reports:StringCheckTests_coverage.xml" "-targetdir:CoverageReport"
+Loading report 'C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\StringCheck\StringCheckTests_coverage.xml'
+ Preprocessing report
+ Initiating parser for OpenCover
+  Current Assembly: StringCheck
+  Current Assembly: StringCheckTests
+Initializing report builders for report types: Html
+Analyzing 2 classes
+ Creating report 1/2 (Assembly: StringCheck, Class: StringCheck.StringCompare)
+ Creating report 2/2 (Assembly: StringCheckTests, Class: StringCheck.Tests.StringCompareTests)
+ Creating summary
+Report generation took 1.1 seconds
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\StringCheck>

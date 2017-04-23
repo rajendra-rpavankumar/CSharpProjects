@@ -95,10 +95,12 @@ publish/
 # Publish Web Output
 *.Publish.xml
 
+#Coverage XML
+*.coverage.xml
+
 # NuGet Packages Directory
 ## TODO: If you have NuGet Package Restore enabled, uncomment the next line
-*/packages/
-*/CoverageReport
+packages/
 
 # Windows Azure Build Output
 csx

@@ -1,0 +1,1 @@
+﻿"..\..\packages\ReportGenerator.2.5.6\tools\ReportGenerator.exe" "-reports:StringCheckTests_coverage.xml" "-targetdir:CoverageReport"
