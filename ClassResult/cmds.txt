@@ -1,0 +1,123 @@
+Microsoft Windows [Version 10.0.14393]
+(c) 2016 Microsoft Corporation. All rights reserved.
+
+C:\Users\Lenovo>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult\ClassResultTests\cover.bat"
+
+C:\Users\Lenovo>´++..\..\packages\OpenCover.4.6.519\tools\OpenCover.Console.exe -register:user -target:"C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\MSTest.exe" -targetargs:"/noresults /noisolation /testcontainer:"".\ClassResultTests\bin\Debug\ClassResultTests.dll" -excludebyattribute:*.ExcludeFromCodeCoverage* -hideskipped:All -output:.\ClassResultTests_coverage.xml
+The system cannot find the path specified.
+
+C:\Users\Lenovo>cd C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult\ClassResultTests
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult\ClassResultTests>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult\ClassResultTests\cover.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult\ClassResultTests>´++..\..\packages\OpenCover.4.6.519\tools\OpenCover.Console.exe -register:user -target:"C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\MSTest.exe" -targetargs:"/noresults /noisolation /testcontainer:"".\ClassResultTests\bin\Debug\ClassResultTests.dll" -excludebyattribute:*.ExcludeFromCodeCoverage* -hideskipped:All -output:.\ClassResultTests_coverage.xml
+The system cannot find the path specified.
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult\ClassResultTests>cd..
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult\ClassResultTests\cover.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult>´++..\..\packages\OpenCover.4.6.519\tools\OpenCover.Console.exe -register:user -target:"C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\MSTest.exe" -targetargs:"/noresults /noisolation /testcontainer:"".\ClassResultTests\bin\Debug\ClassResultTests.dll" -excludebyattribute:*.ExcludeFromCodeCoverage* -hideskipped:All -output:.\ClassResultTests_coverage.xml
+Executing: C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\MSTest.exe
+Microsoft (R) Test Execution Command Line Tool Version 14.0.23107.0
+Copyright (c) Microsoft Corporation. All rights reserved.
+
+Loading .\ClassResultTests\bin\Debug\ClassResultTests.dll...
+Starting execution...
+
+Results               Top Level Tests
+-------               ---------------
+Passed                ClassResult.Tests.ResultTests.CheckFail
+Passed                ClassResult.Tests.ResultTests.CheckFirstclass
+Passed                ClassResult.Tests.ResultTests.CheckPass
+Passed                ClassResult.Tests.ResultTests.CheckSecondclass
+Passed                ClassResult.Tests.ResultTests.FindRankTest
+5/5 test(s) Passed
+
+Summary
+-------
+Test Run Completed.
+  Passed  5
+  ---------
+  Total   5
+Results file:  C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult\TestResults\Lenovo_LAPTOP-3DPHEV1J 2017-04-18 14_49_10.trx
+Test Settings: Default Test Settings
+Committing...
+Visited Classes 2 of 2 (100)
+Visited Methods 8 of 8 (100)
+Visited Points 31 of 32 (96.88)
+Visited Branches 17 of 18 (94.44)
+
+==== Alternative Results (includes all methods including those without corresponding source) ====
+Alternative Visited Classes 2 of 2 (100)
+Alternative Visited Methods 9 of 9 (100)
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult\ClassResultTests\report.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult>´++"..\..\packages\ReportGenerator.2.5.6\tools\ReportGenerator.exe" "-reports:ClassResultTests_coverage.xml" "-targetdir:CoverageReport"
+Loading report 'C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult\ClassResultTests_coverage.xml'
+ Preprocessing report
+ Initiating parser for OpenCover
+  Current Assembly: ClassResult
+  Current Assembly: ClassResultTests
+Initializing report builders for report types: Html
+Analyzing 2 classes
+ Creating report 1/2 (Assembly: ClassResult, Class: ClassResult.Result)
+ Creating report 2/2 (Assembly: ClassResultTests, Class: ClassResult.Tests.ResultTests)
+ Creating summary
+Report generation took 0.7 seconds
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult\ClassResultTests\cover.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult>´++..\..\packages\OpenCover.4.6.519\tools\OpenCover.Console.exe -register:user -target:"C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\MSTest.exe" -targetargs:"/noresults /noisolation /testcontainer:"".\ClassResultTests\bin\Debug\ClassResultTests.dll" -excludebyattribute:*.ExcludeFromCodeCoverage* -hideskipped:All -output:.\ClassResultTests_coverage.xml
+Executing: C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\MSTest.exe
+Microsoft (R) Test Execution Command Line Tool Version 14.0.23107.0
+Copyright (c) Microsoft Corporation. All rights reserved.
+
+Loading .\ClassResultTests\bin\Debug\ClassResultTests.dll...
+Starting execution...
+
+Results               Top Level Tests
+-------               ---------------
+Passed                ClassResult.Tests.ResultTests.CheckFail
+Passed                ClassResult.Tests.ResultTests.CheckFailForNegative
+Passed                ClassResult.Tests.ResultTests.CheckFirstclass
+Passed                ClassResult.Tests.ResultTests.CheckPass
+Passed                ClassResult.Tests.ResultTests.CheckSecondclass
+Passed                ClassResult.Tests.ResultTests.FindRankTest
+6/6 test(s) Passed
+
+Summary
+-------
+Test Run Completed.
+  Passed  6
+  ---------
+  Total   6
+Results file:  C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult\TestResults\Lenovo_LAPTOP-3DPHEV1J 2017-04-18 21_17_49.trx
+Test Settings: Default Test Settings
+Committing...
+Visited Classes 2 of 2 (100)
+Visited Methods 9 of 9 (100)
+Visited Points 35 of 35 (100)
+Visited Branches 19 of 19 (100)
+
+==== Alternative Results (includes all methods including those without corresponding source) ====
+Alternative Visited Classes 2 of 2 (100)
+Alternative Visited Methods 10 of 10 (100)
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult>"C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult\ClassResultTests\report.bat"
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult>´++"..\..\packages\ReportGenerator.2.5.6\tools\ReportGenerator.exe" "-reports:ClassResultTests_coverage.xml" "-targetdir:CoverageReport"
+Loading report 'C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult\ClassResultTests_coverage.xml'
+ Preprocessing report
+ Initiating parser for OpenCover
+  Current Assembly: ClassResult
+  Current Assembly: ClassResultTests
+Initializing report builders for report types: Html
+Analyzing 2 classes
+ Creating report 1/2 (Assembly: ClassResult, Class: ClassResult.Result)
+ Creating report 2/2 (Assembly: ClassResultTests, Class: ClassResult.Tests.ResultTests)
+ Creating summary
+Report generation took 0.8 seconds
+
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ClassResult>

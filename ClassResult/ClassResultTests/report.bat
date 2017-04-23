@@ -1,0 +1,1 @@
+﻿"..\..\packages\ReportGenerator.2.5.6\tools\ReportGenerator.exe" "-reports:ClassResultTests_coverage.xml" "-targetdir:CoverageReport"
