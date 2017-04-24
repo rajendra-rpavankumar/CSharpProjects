@@ -60,6 +60,11 @@
       <Name>StringRemoveSpace</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="cover.bat" />
+    <None Include="packages.config" />
+    <None Include="report.bat" />
+  </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
       <ItemGroup>
